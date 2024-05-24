@@ -1,7 +1,7 @@
 <!-- Qt workflow ~ Philippe Soubrier ~ 24/05/2024 -->
 # 🔄 Qt Workflow
 
-Output/executable can be previewed in the [releases]().
+Output/executable can be previewed in the [releases](releases).
 
 If you cloned this repository, make sure the commands in the following sections are executed in this folder. Command to navigate to this folder:
 ```shell

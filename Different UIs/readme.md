@@ -18,7 +18,7 @@ This table presents a focused evaluation of user interfaces based on aspects cri
 | Ease of Use (for User)       | ⭐⭐                         | ⭐⭐⭐                          | ⭐⭐⭐⭐                       | ⭐⭐⭐⭐⭐                  |
 
 > [!NOTE]  
-> Executable versions of the proposed scripts are available in the [releases]()
+> Executable versions of the proposed scripts are available in the [releases](releases)
 
 ## 📖 Full Description
 
@@ -79,4 +79,4 @@ This table presents a focused evaluation of user interfaces based on aspects cri
   - Constant security follow-up, but safer to protect proprietary code.
 - **Libraries**: `Flask`, `Django`, `React`, `Next.js`, `Angular`, `Vue.js`, `Svelte`, `streamlit`
 - **Examples**: Websites, web applications, web services.
-  - See [Web UI example](Web%20UI.py).
+  - See [Web UI example](web%20UI.py).
